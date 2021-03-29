@@ -6,5 +6,8 @@
 - Register the folder in `PATH` environment variable
 - Done :)
 
+## Source
+- [Binary](https://github.com/kimlimjustin/touch/blob/master/touch.exe)
+
 ## License
 MIT

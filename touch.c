@@ -7,7 +7,7 @@ int main(int argc, char *argv[]){
         printf("Usage: touch [file name]");
     }else{
         int i;
-        char cmd[1024];
+        char cmd[1024] = "";
         for(i = 1; i <argc ; i++){
             if(i == 1){
                 strcat(cmd, "copy NULL > ");
